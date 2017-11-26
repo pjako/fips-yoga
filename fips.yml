@@ -1,0 +1,9 @@
+#
+# fips-yoga
+#
+---
+exports:
+    header-dirs: [ yoga/yoga ]
+    modules :
+        yoga: . 
+
